@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Zain Ul Rehman
 
-<!--
-**zainch70/zainch70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSCS student at University of Central Punjab (7th Semester)  
+💻 Web Developer | Python | React | Django | C++  
+📊 Interested in Real-World Projects, Machine Learning & Backend APIs  
+🏆 Multiple awards in coding competitions (Techathon, Code Rush)  
+🌐 Portfolio: [zkboyzain.netlify.app](https://zkboyzain.netlify.app)  
+📬 Contact: [zainulrehman18@gmail.com](mailto:zainulrehman18@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:**  
+JavaScript | C++ | C | Python | SQL | PHP  
+
+**Frontend:**  
+HTML5 | CSS3 | Tailwind CSS | Bootstrap | JavaScript | React  
+
+**Backend:**  
+Django | PHP | MySQL | REST APIs  
+
+**Tools & Platforms:**  
+Git & GitHub | WordPress | Ubuntu | VS Code  
+
+**Other Skills:**  
+Machine Learning | NLP | Web Scraping | OOP | DSA  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Place - Rizq UCP Chapter Leadership Program (600+ participants)  
+- 🥈 2nd Place - Code Rush C++ Competitive Programming  
+- 🥉 3rd Place - Techathon 1.0 Coding Competition  
+
+---
+
+## 📁 Featured Projects
+
+- 🏠 **Real Estate Management System** – Full-stack PHP + MySQL property platform with user login, listings & CRUD.
+- 🚗 **Car Rental Management System** – MySQL database project with rental flow, customer & vehicle data tracking.
+- ✅ **To-Do List Web App** – LocalStorage-based task manager with clean UI using Tailwind CSS.
+- 🌐 **[ZKboy Portfolio Website](https://zkboyzain.netlify.app)** – Personal portfolio built with HTML & Tailwind CSS, deployed on Netlify.
+
+---
+
+> 📌 *Thank you for visiting my profile! Feel free to explore my repos or reach out if you’d like to collaborate.*
