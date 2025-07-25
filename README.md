@@ -1,6 +1,6 @@
 # Hi 👋, I'm Zain Ul Rehman
 
-🎓 BSCS student at University of Central Punjab (7th Semester)  
+🎓 BSCS student at University of Central Punjab (Last Semester)  
 💻 Full Stack Developer | Python | React | Django | C++  
 📊 Interested in Real-World Projects, Machine Learning & Backend APIs  
 🏆 Multiple awards in coding competitions (Techathon, Code Rush)  
