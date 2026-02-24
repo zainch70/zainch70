@@ -1,40 +1,49 @@
-[# Hi 👋, I'm Zain Ul Rehman
+# Hi 👋, I'm Zain Ul Rehman
 
-🎓 Bachelors in Computer Science from University of Central Punjab (Feb-2026)
-💻 Full Stack Developer | Python | React | Django | C++  
-📊 Interested in Real-World Projects, Machine Learning & Backend APIs  
-🏆 Multiple awards in coding competitions (Techathon, Code Rush)  
-🌐 Portfolio: [zkboyzain.netlify.app](https://zkboyzain.netlify.app)  
-📬 Contact: [zainulrehman18@gmail.com](mailto:zainulrehman18@gmail.com)](https://zainulrehman.dev/)
+🎓 B.Sc. in Computer Science | University of Central Punjab (Feb 2026)  
+💻 Full Stack Developer | React | Django | Python | C++  
+🤖 Passionate about AI, Machine Learning, Web Automation & Backend APIs  
+🏆 Award-winning coder in Techathon, Code Rush & University Competitions  
+🌐 Portfolio: [zainulrehman.dev](https://zainulrehman.dev/)  
+📬 Contact: [zainulrehman18@gmail.com](mailto:zainulrehman18@gmail.com)  
 
-🔧 Tech Stack
+---
 
-Languages:
-Python | JavaScript | C++ | C | PHP | SQL
+## 🔧 Tech Stack
 
-Frontend:
-HTML5 | CSS3 | Tailwind CSS | Bootstrap | React
+**Languages:**  
+Python | JavaScript | C++ | C | PHP | SQL  
 
-Backend & Databases:
-Django | PHP | REST APIs | PostgreSQL | MySQL
+**Frontend:**  
+HTML5 | CSS3 | Tailwind CSS | Bootstrap | React  
 
-Tools & Platforms:
-Git & GitHub | Ubuntu | VS Code | AWS | Render | WordPress
+**Backend & Databases:**  
+Django | PHP | REST APIs | PostgreSQL | MySQL  
 
-Other Skills:
-Machine Learning | NLP | Web Scraping | OOP | DSA | Automation
+**Tools & Platforms:**  
+Git & GitHub | Ubuntu | VS Code | AWS | Render | WordPress  
 
-🏆 Achievements
-🥇 1st Place – Rizq UCP Chapter Leadership Program (600+ participants)
-🥈 2nd Place – Code Rush C++ Competitive Programming, 2025
-🥉 3rd Place – Techathon 1.0 Coding Competition, 2025
+**Other Skills:**  
+Machine Learning | NLP | Web Scraping | OOP | DSA | Automation  
 
-📁 Featured Projects
+---
 
-🌐 Buy Vault Hub (FYP) – AI-powered product aggregation platform integrating 10,000+ products, intelligent search & chatbot, built with React, Django, Python & PostgreSQL.
-🏠 Real Estate Management System – Full-stack PHP + MySQL platform with authentication, CRUD, and listings management.
-🚗 Car Rental Management System – Rental flow with customer & vehicle tracking using MySQL backend.
-✅ To-Do List Web App – Task manager with localStorage and Tailwind CSS for clean UI.
-🌐 – Personal portfolio showcasing full-stack and AI projects.
+## 🏆 Achievements
 
-📌 Thanks for visiting my GitHub! Explore my repositories or reach out to collaborate on full-stack, AI, or automation projects.
+- 🥇 1st Place – Rizq UCP Chapter Leadership Program (600+ participants)  
+- 🥈 2nd Place – Code Rush C++ Competitive Programming, 2025  
+- 🥉 3rd Place – Techathon 1.0 Coding Competition, 2025  
+
+---
+
+## 📁 Featured Projects
+
+- 🌐 **Buy Vault Hub (FYP)** – AI-powered product aggregation platform integrating 10,000+ products, intelligent search & chatbot, built with React, Django, Python & PostgreSQL.  
+- 🏠 **Real Estate Management System** – Full-stack PHP + MySQL platform with authentication, CRUD, and listings management.  
+- 🚗 **Car Rental Management System** – Rental flow with customer & vehicle tracking using MySQL backend.  
+- ✅ **To-Do List Web App** – Task manager with localStorage and Tailwind CSS for clean UI.  
+- 🌐 **[Portfolio Website](https://zainulrehman.dev/)** – Personal portfolio showcasing full-stack and AI projects.  
+
+---
+
+> 📌 *Thanks for visiting my GitHub! Explore my repositories or reach out to collaborate on full-stack, AI, or automation projects.*  
