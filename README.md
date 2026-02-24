@@ -1,7 +1,7 @@
 # Hi 👋, I'm Zain Ul Rehman
 
-🎓 B.Sc. in Computer Science | University of Central Punjab (Feb 2026)  
-💻 Full Stack Developer | React | Django | Python | C++  
+🎓 BS in Computer Science | University of Central Punjab 
+💻 Full Stack Developer |Html |Css |Tailwind Css |Python |JavaScript |React |Django |Fastapi |SQL |Version Control
 🤖 Passionate about AI, Machine Learning, Web Automation & Backend APIs  
 🏆 Award-winning coder in Techathon, Code Rush & University Competitions  
 🌐 Portfolio: [zainulrehman.dev](https://zainulrehman.dev/)  
@@ -38,6 +38,8 @@ Machine Learning | NLP | Web Scraping | OOP | DSA | Automation
 
 ## 📁 Featured Projects
 
+
+- 🏢 **CRM & Project Management System** – Full-stack system built with React, Django, REST APIs & PostgreSQL; includes role-based dashboards, authentication, attendance, chat & notifications; used daily by 100+ employees across Sales, HR, Support & Admin teams. 
 - 🌐 **Buy Vault Hub (FYP)** – AI-powered product aggregation platform integrating 10,000+ products, intelligent search & chatbot, built with React, Django, Python & PostgreSQL.  
 - 🏠 **Real Estate Management System** – Full-stack PHP + MySQL platform with authentication, CRUD, and listings management.  
 - 🚗 **Car Rental Management System** – Rental flow with customer & vehicle tracking using MySQL backend.  
