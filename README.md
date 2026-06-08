@@ -1,13 +1,12 @@
 # Hi 👋, I'm Zain Ul Rehman
 
-🎓 BS in Computer Science | University of Central Punjab  
-💻 Full Stack & Next.js Developer | React | Next.js | TypeScript | Python | Django | FastAPI | PostgreSQL | AWS  
-🤖 Passionate about AI, Machine Learning, Automation & Modern Web Development
-🏆 Award-winning coder in Techathon, Code Rush & University Competitions 
+🎓 BS in Computer Science | University of Central Punjab
 💼 Associate Software Engineer at Fantech Labs
-⚡ Developing modern web applications using Next.js, React, Django & FastAPI
-🌐 Portfolio: [zainulrehman.dev](https://zainulrehman.dev/)  
-📬 Contact: [zainulrehman18@gmail.com](mailto:zainulrehman18@gmail.com)  
+👾 Full Stack & Next.js Developer specializing in React, Next.js, Django, FastAPI and PostgreSQL
+🤖 Passionate about AI, Machine Learning, Automation and Scalable Web Applications
+🏆 Award-winning coder in Techathon, Code Rush & University Competitions
+🌐 Portfolio: [zainulrehman.dev](https://zainulrehman.dev/)
+📬 Contact: [zainulrehman18@gmail.com](mailto:zainulrehman18@gmail.com) 
 
 ---
 
